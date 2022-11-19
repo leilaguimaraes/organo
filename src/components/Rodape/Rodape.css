@@ -1,0 +1,31 @@
+.footer{
+  background-color: #6278F7 ;
+  background-image: url('../../../../imagens/fundo.png');
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 213px;
+}
+
+.footer .links{
+  display: flex;
+  
+}
+.footer .links img{
+  margin-right: 8px;
+}
+ .footer .logo{
+  width: 166px;
+height: 63px;
+ }
+.footer .links img{
+  width: 30px;
+  height: 30px;
+}
+
+.footer p{
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 20px;
+
+}
